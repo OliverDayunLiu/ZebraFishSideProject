@@ -1,0 +1,6 @@
+.idea
+*.pth
+*.xlsx
+*testscript*
+readme
+**cache**
